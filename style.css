@@ -10,12 +10,12 @@ container-fluid{
 
 .navbar-brand{
   font-size: 35px;
-  color: SeaGreen;
+  color: white;
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: SeaGreen;
+	color: white;
 }
 
 .nav{
