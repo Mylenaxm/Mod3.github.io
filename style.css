@@ -5,7 +5,7 @@ container-fluid{
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: rgb(0,0,0);
 }
 
 .navbar-brand{
